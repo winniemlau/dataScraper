@@ -37,6 +37,7 @@ app.get('/', function(req, res) {
 
 
 app.get('/scrape', function(req, res) {
+
   request('http://www.hongkiat.com/blog/design-dev/', function(error, response, html) {
     var $ = cheerio.load(html);
     $('article h2').each(function(i, element) {
