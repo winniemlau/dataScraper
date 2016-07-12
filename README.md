@@ -21,12 +21,12 @@
 * Mongoose
 * MVC
 * NPM modules
-1) body-parser
-2. cherrio
-3. express
-4. express-handlebars
-5. mongosse
-6. request
+  1. body-parser
+	2. cheerio
+	3. express
+	4. express-handlebars
+	5. mongoose
+	6. request
 
 ###App Functionality
 
