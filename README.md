@@ -21,7 +21,7 @@
 * Mongoose
 * MVC
 * NPM modules
-i. body-parser
+1) body-parser
 2. cherrio
 3. express
 4. express-handlebars
