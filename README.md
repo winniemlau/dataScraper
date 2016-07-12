@@ -1,8 +1,6 @@
 #Week 18 Assignment
 ##Data Scraper
 
-![alt tag](https://github.com/winniemlau/friendFinder/blob/master/app/assets/images/screenshot.png)
-
 ###Objective
 
 * Scrape data using Cheerio
